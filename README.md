@@ -2,6 +2,14 @@
   💻<br>Portfólio - Thauã Magalhães
 </h1>
 
+## <p align="center"> <u>Preview da página:</u> </p>
+
+<p align="center">
+  <img src="assets/preview.jpg" height="1000px" alt="preview dá página">
+</p>
+<h4 align="center"><a href="https://tahaluh.github.io/portfolio/">Clique para visitar o projeto</a></h4>
+
+---
 # 📚Seções
 
 O site é composto por 3 seções:
