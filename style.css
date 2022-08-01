@@ -163,6 +163,8 @@ body{
   #welcome {
     flex-direction: column;
   }
+}
+@media (max-width: 1400px) {
   #projects-div {
     width: 100%;
   }
